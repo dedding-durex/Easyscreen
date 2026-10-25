@@ -218,4 +218,4 @@ Easyscreen is the full free version, offering all features and updates with no l
 Start capturing your screen with precision today! [Download Easyscreen free now!](https://www.softyne.com/easyscreen)
 
 ---
-**Last updated:** 2026-10-25 09:05:13 UTC
+**Last updated:** 2026-10-25 14:11:02 UTC
